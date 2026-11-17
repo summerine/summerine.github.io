@@ -4,7 +4,7 @@ const projects = [
     title: "Playwright with Pytest",
     summary:
           "A personal QA project exploring test design and browser automation. Includes BDD test scenarios, manual test case documentation, and automated browser testing using Playwright, Python, and Pytest.",
-    status: "In Progress",
+    status: "Completed",
     type: "Personal Project",
     tags: [
       "Behavior-Driven Development (BDD)",
