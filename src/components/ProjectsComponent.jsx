@@ -1,7 +1,7 @@
 const projects = [
   {
     id: 1,
-    title: "Rahul Shetty's Demo Ecommerce Website",
+    title: "Ecommerce Website Playwright-Pytest",
     summary:
           "A personal QA project exploring test design and browser automation in Rahul Shetty's demo ecommerce website. Includes BDD test scenarios, and automated browser testing using Playwright, Python, and Pytest.",
     status: "Completed",
